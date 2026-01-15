@@ -10,7 +10,7 @@ require (
 	github.com/chrismellard/docker-credential-acr-env v0.0.0-20230304212654-82a0ddb27589
 	github.com/cyberphone/json-canonicalization v0.0.0-20241213102144-19d51d7fe467
 	github.com/depcheck-test/depcheck-test v0.0.0-20220607135614-199033aaa936
-	github.com/digitorus/timestamp v0.0.0-20231217203849-220c5c2851b7
+	github.com/digitorus/timestamp v0.0.0-20250524132541-c45532741eea
 	github.com/dustin/go-humanize v1.0.1
 	github.com/go-jose/go-jose/v3 v3.0.4
 	github.com/go-openapi/runtime v0.28.0
