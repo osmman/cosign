@@ -1,5 +1,5 @@
 # Build stage
-FROM registry.redhat.io/ubi9/go-toolset:9.7 AS build-env
+FROM registry.redhat.io/ubi9/go-toolset:9.7-1773318690 AS build-env
 
 ENV GOEXPERIMENT=strictfipsruntime
 ENV CGO_ENABLED=1
